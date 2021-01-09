@@ -1,0 +1,12 @@
+ :host {
+  display: flex;
+  justify-content: center;
+}
+.card{
+  width: 300;
+  background-color: azure;
+}
+
+.done{
+  text-decoration: line-through;
+}
